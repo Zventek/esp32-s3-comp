@@ -1,0 +1,19 @@
+# Ignore list for KiCad Projects
+# Temporary Files
+
+*.000
+*.bak
+*.bck
+*.kicad_pcb_bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+# Netlist files (exported from Eeschema)
+*.net
+# Autorouter files (exported from pcbnew)
+*.dsn
+*.ses
